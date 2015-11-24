@@ -1,0 +1,13 @@
+//
+//  RootViewController.h
+//  自定义索引
+//
+//  Created by mac on 15/11/4.
+//  Copyright © 2015年 Keith. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface RootViewController : UIViewController
+
+@end
