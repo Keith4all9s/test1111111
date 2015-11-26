@@ -34,7 +34,7 @@
         
     }
     
-    
+    NSLog(@"THIS IS A TEST");
     [self CreatTable];
     
     
