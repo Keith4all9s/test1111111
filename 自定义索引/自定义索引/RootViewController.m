@@ -37,6 +37,9 @@
     NSLog(@"THIS IS A TEST");
     NSLog(@"THIS IS A TEST");
     NSLog(@"THIS IS 3 TEST");
+    
+    
+    NSLog(@"NEW");
     [self CreatTable];
     
     
