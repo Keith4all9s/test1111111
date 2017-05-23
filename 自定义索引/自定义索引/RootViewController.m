@@ -40,6 +40,7 @@
     
     
     NSLog(@"NEW");
+    NSLog(@"NEW");NSLog(@"NEW");
     [self CreatTable];
     
     
