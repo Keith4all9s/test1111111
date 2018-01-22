@@ -40,7 +40,9 @@
     
     
     NSLog(@"NEW");
-    NSLog(@"NEW");NSLog(@"NEW");
+    //2018-01-22 16:05:09
+    
+    
     [self CreatTable];
     
     
