@@ -14,7 +14,6 @@
 		045140991BE9D68900912561 /* _____Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 045140981BE9D68900912561 /* _____Tests.m */; };
 		045140A41BE9D68900912561 /* _____UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 045140A31BE9D68900912561 /* _____UITests.m */; };
 		045140B31BE9D6A800912561 /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 045140B21BE9D6A800912561 /* RootViewController.m */; };
-		53AB45AE2015D9BD005C533F /* 1111v.m in Sources */ = {isa = PBXBuildFile; fileRef = 53AB45AD2015D9BD005C533F /* 1111v.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,8 +49,6 @@
 		045140A51BE9D68900912561 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		045140B11BE9D6A800912561 /* RootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
 		045140B21BE9D6A800912561 /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
-		53AB45AC2015D9BD005C533F /* 1111v.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 1111v.h; sourceTree = "<group>"; };
-		53AB45AD2015D9BD005C533F /* 1111v.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = 1111v.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,7 +103,6 @@
 				045140821BE9D68900912561 /* AppDelegate.m */,
 				045140B11BE9D6A800912561 /* RootViewController.h */,
 				045140B21BE9D6A800912561 /* RootViewController.m */,
-				53AB45AF2015DAD0005C533F /* aaa */,
 				0451408A1BE9D68900912561 /* Assets.xcassets */,
 				0451408C1BE9D68900912561 /* LaunchScreen.storyboard */,
 				0451408F1BE9D68900912561 /* Info.plist */,
@@ -139,15 +135,6 @@
 				045140A51BE9D68900912561 /* Info.plist */,
 			);
 			path = "自定义索引UITests";
-			sourceTree = "<group>";
-		};
-		53AB45AF2015DAD0005C533F /* aaa */ = {
-			isa = PBXGroup;
-			children = (
-				53AB45AC2015D9BD005C533F /* 1111v.h */,
-				53AB45AD2015D9BD005C533F /* 1111v.m */,
-			);
-			path = aaa;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -279,7 +266,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				53AB45AE2015D9BD005C533F /* 1111v.m in Sources */,
 				045140831BE9D68900912561 /* AppDelegate.m in Sources */,
 				045140801BE9D68900912561 /* main.m in Sources */,
 				045140B31BE9D6A800912561 /* RootViewController.m in Sources */,
