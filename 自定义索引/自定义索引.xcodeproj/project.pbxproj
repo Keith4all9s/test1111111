@@ -106,8 +106,7 @@
 				045140821BE9D68900912561 /* AppDelegate.m */,
 				045140B11BE9D6A800912561 /* RootViewController.h */,
 				045140B21BE9D6A800912561 /* RootViewController.m */,
-				53AB45AC2015D9BD005C533F /* 1111v.h */,
-				53AB45AD2015D9BD005C533F /* 1111v.m */,
+				53AB45AF2015DAD0005C533F /* aaa */,
 				0451408A1BE9D68900912561 /* Assets.xcassets */,
 				0451408C1BE9D68900912561 /* LaunchScreen.storyboard */,
 				0451408F1BE9D68900912561 /* Info.plist */,
@@ -140,6 +139,15 @@
 				045140A51BE9D68900912561 /* Info.plist */,
 			);
 			path = "自定义索引UITests";
+			sourceTree = "<group>";
+		};
+		53AB45AF2015DAD0005C533F /* aaa */ = {
+			isa = PBXGroup;
+			children = (
+				53AB45AC2015D9BD005C533F /* 1111v.h */,
+				53AB45AD2015D9BD005C533F /* 1111v.m */,
+			);
+			path = aaa;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
